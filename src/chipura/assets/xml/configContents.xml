@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <Content>
+    <Screens>
+		<!-- Первый экран -->
+		<Screen1 nameTxt="Scene1Instance">
+			<Btns>
+				<Btn mess="Start" posX="100" posY="130" />
+			</Btns>
+		</Screen1>
+		<!-- Второй экран -->
+		<Screen2 nameTxt="Scene2Instance">
+			<Btns>
+				<Btn mess="Text1" posX="150" posY="130" />
+				<Btn mess="Text2" posX="250" posY="130" />
+			</Btns>
+		</Screen2>
+		<!-- Третий экран -->
+		<Screen3 nameTxt="Scene2Instance">
+			<TextFields>
+				<TField posX="150" posY="130" />
+			</TextFields>
+		</Screen3>
+    </Screens>
+  </Content>
+</data>
